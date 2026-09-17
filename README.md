@@ -58,7 +58,7 @@ Este repositorio es mi cuaderno de campo público — la evidencia de cómo abor
 
 | Writeup | Categoría | Técnicas |
 |---|---|---|
-| [Attacktive Directory](tryhackme/attacktive-directory.md) | Active Directory | Kerbrute, AS-REP Roasting, SMB, Backup Operators / DCSync, Pass-the-Hash |
+| [Attacktive Directory](tryhackme/attacktive-directory.pdf) 📄 | Active Directory | Kerbrute, AS-REP Roasting, SMB, Backup Operators / DCSync, Pass-the-Hash |
 
 ### HackTheBox
 
@@ -68,15 +68,15 @@ _Próximamente._
 
 ```
 writeups/
-├── tryhackme/          # Writeups de salas de TryHackMe
-├── hackthebox/         # Writeups de máquinas de HackTheBox
-├── assets/             # Capturas de cada writeup, en una subcarpeta con su mismo nombre
-└── TEMPLATE.md         # Plantilla para escribir un writeup nuevo
+├── tryhackme/          # Writeups de salas de TryHackMe (PDF)
+└── hackthebox/         # Writeups de máquinas de HackTheBox (PDF)
 ```
+
+Cada writeup es un **PDF autocontenido** — capturas, comandos y explicación en un único archivo, listo para descargar y leer sin depender de que se renderice nada en GitHub.
 
 ## 📝 Metodología
 
-Cada writeup sigue la misma estructura ([TEMPLATE.md](TEMPLATE.md)):
+Cada writeup sigue la misma estructura:
 
 1. **Reconocimiento** — qué se escaneó y por qué esa huella apunta a un tipo de objetivo concreto.
 2. **Explotación paso a paso** — cada comando con el razonamiento detrás, no solo el resultado.
