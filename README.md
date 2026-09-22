@@ -64,12 +64,19 @@ Este repositorio es mi cuaderno de campo público — la evidencia de cómo abor
 
 _Próximamente._
 
+### DockerLabs
+
+| Writeup | Categoría | Técnicas |
+|---|---|---|
+| [Aidor](dockerlabs/aidor-de-idor-a-root.pdf) 📄 | Web / Linux | IDOR, enumeración masiva, cracking SHA-256/MD5 (John, Hashcat), escalada vía código fuente expuesto |
+
 ## 🗂️ Estructura del repo
 
 ```
 writeups/
 ├── tryhackme/          # Writeups de salas de TryHackMe (PDF)
-└── hackthebox/         # Writeups de máquinas de HackTheBox (PDF)
+├── hackthebox/         # Writeups de máquinas de HackTheBox (PDF)
+└── dockerlabs/         # Writeups de máquinas de DockerLabs (PDF)
 ```
 
 Cada writeup es un **PDF autocontenido** — capturas, comandos y explicación en un único archivo, listo para descargar y leer sin depender de que se renderice nada en GitHub.
