@@ -59,6 +59,7 @@ Este repositorio es mi cuaderno de campo público — la evidencia de cómo abor
 | Writeup | Categoría | Técnicas |
 |---|---|---|
 | [Attacktive Directory](tryhackme/attacktive-directory.pdf) 📄 | Active Directory | Kerbrute, AS-REP Roasting, SMB, Backup Operators / DCSync, Pass-the-Hash |
+| [Investigating Windows](tryhackme/investigating-windows.pdf) 📄 | Forense Windows | Event Viewer, PowerShell forense, Task Scheduler, timestamps NTFS, auditoría de logs |
 
 ### HackTheBox
 
