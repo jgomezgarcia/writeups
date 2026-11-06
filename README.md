@@ -70,6 +70,7 @@ _Próximamente._
 | Writeup | Categoría | Técnicas |
 |---|---|---|
 | [Aidor](dockerlabs/aidor-de-idor-a-root.pdf) 📄 | Web / Linux | IDOR, enumeración masiva, cracking SHA-256/MD5 (John, Hashcat), escalada vía código fuente expuesto |
+| [Entering](dockerlabs/entering-rce-xwiki-cve-2025-24893.pdf) 📄 | Web / Linux | OSINT de versión, CVE-2025-24893 (RCE no autenticado en XWiki), Metasploit, Meterpreter |
 
 ## 🗂️ Estructura del repo
 
