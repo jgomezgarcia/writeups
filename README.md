@@ -71,6 +71,7 @@ _Próximamente._
 |---|---|---|
 | [Aidor](dockerlabs/aidor-de-idor-a-root.pdf) 📄 | Web / Linux | IDOR, enumeración masiva, cracking SHA-256/MD5 (John, Hashcat), escalada vía código fuente expuesto |
 | [Entering](dockerlabs/entering-rce-xwiki-cve-2025-24893.pdf) 📄 | Web / Linux | OSINT de versión, CVE-2025-24893 (RCE no autenticado en XWiki), Metasploit, Meterpreter |
+| [Unrecover](dockerlabs/unrecover-mysql-hash-pdf-censurado.pdf) 📄 | Servicios / Fuerza bruta | Hydra (FTP/SSH/MySQL), enumeración MySQL, cracking de hash, password reuse, extracción de datos "censurados" de un PDF |
 
 ## 🗂️ Estructura del repo
 
